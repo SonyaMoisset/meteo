@@ -21,6 +21,6 @@
     "express": "4.17.1",
     "pug": "2.0.0-rc.2",
     "style-loader": "1.0.0",
-    "webpack": "3.0.0"
+    "webpack": "3.12.0"
   }
 }
